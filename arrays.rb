@@ -10,4 +10,4 @@ student_names.push("Amira", "Kiley", "Maya")
 student_names.push("Natalia")
 student_names.push("Beyonce")
 puts student_names.size
-puts student_names[1,2,3,4,5]
+puts student_names[1..2..]
